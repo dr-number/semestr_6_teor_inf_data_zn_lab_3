@@ -93,7 +93,7 @@ int main()
     setlocale(LC_ALL, "ru");
 
     const string PATH = "D:\\СИБСТРИН ИНФА\\семестр6\\2324, Теория информации, данные, знания, 12 (экзамен, заоч. (5, 6 сем.) (310а-з, 310з гр.) )\\Лабораторная работа №3\\";
-    const string INPUT = "7.txt";
+    const string INPUT = "17.txt";
 
     string pathin = PATH + INPUT; // "input.txt";
     string pathout = PATH + INPUT + "_output.txt";
